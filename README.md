@@ -53,6 +53,12 @@ Advanced Excel · Pivot Tables · Power Pivot · Data Analysis
 
 A two-page supply chain dashboard with Row-Level Security, backed by SQL analysis using aggregations, subqueries, and window functions (ROW_NUMBER, RANK).
 
+### [E-commerce Data Warehouse](https://github.com/abdelrhmannahemd/E-commerce-Data-Warehouse-SQL-Server-SSIS-Power-BI)
+
+**SQL Server · SSIS · Power BI**
+
+An end-to-end e-commerce data warehouse project combining SQL Server, SSIS, and Power BI to build a structured data pipeline and support business reporting and analysis.
+
 ### [Grocery Sales Analysis](https://github.com/abdelrhmannahemd/PowerBI-Grocery-Sales-Analysis)
 
 **Power BI · Python**
