@@ -57,7 +57,7 @@ A two-page supply chain dashboard with Row-Level Security, backed by SQL analysi
 
 **SQL Server · SSIS · Power BI**
 
-An end-to-end e-commerce data warehouse project combining SQL Server, SSIS, and Power BI to build a structured data pipeline and support business reporting and analysis.
+An end-to-end data warehouse project using ten years of synthetic e-commerce data. Built a dimensional model with 8 dimension tables and 3 fact tables, an SSIS ETL workflow with Lookup transformations, SQL-based data validation and analysis, and a three-page Power BI report covering sales, customers, inventory, and returns.
 
 ### [Grocery Sales Analysis](https://github.com/abdelrhmannahemd/PowerBI-Grocery-Sales-Analysis)
 
