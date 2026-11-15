@@ -9,7 +9,7 @@ I analyze business data with Power BI, SQL, Python, and Excel to build clear das
 <br>
 
 <a href="mailto:abdelrhmanahmed5564@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/abdelrhmann-ahmed-89b4611a4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/abdelrhman-ahmed-89b4611a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://abdelrhman-ahmed-eta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D9488?style=flat-square" alt="Portfolio"></a>
 
 </div>
